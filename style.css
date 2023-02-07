@@ -1,0 +1,30 @@
+.heading{
+    font-family: 'Itim', cursive;
+    box-shadow: 12px 12px 2px 1px rgba(147, 64, 202, 0.2);
+    width: 80%;
+    margin: 0px;
+    background-color: grey;
+    color: white;
+    font-size: 33px;
+}
+body{
+    font-family: 'Itim', cursive;
+    background:url("cooler.jpg");
+}
+.notee{
+font-size:20px;
+color:aqua;
+}
+.copy_right_footer{
+position:fixed;
+background:url("cool.jpg");
+color: rgb(249, 245, 249);
+width: 100%;
+line-height: 5;
+bottom:0;
+text-align: center;
+}
+canvas{
+    border:5px dashed rgb(255, 255, 255);
+    border-radius: 10px;
+}
